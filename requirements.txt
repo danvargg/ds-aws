@@ -1,0 +1,8 @@
+# aws s3 cp --recursive s3://dlai-practical-data-science/labs/c1w1-474798/ ./  ## move to py script
+sagemaker==2.35.0
+pandas==1.1.4
+awswrangler==2.7.0
+numpy==1.18.5
+seaborn==0.11.0
+matplotlib===3.3.3
+# boto3
